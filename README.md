@@ -8,7 +8,7 @@ I build fast, responsive websites and web apps with React, and I keep clients up
 
 What I'm working on
 
-Reewayat: a business platform I'm leading and building from scratch with a team. It is currently in testing. The code is private, so you can read how I approached it in the [case study]([LINK TO CASE STUDY ON YOUR PORTFOLIO]).
+Reewayat: a business platform I'm leading and building from scratch with a team. It is currently in testing. The code is private, so you can read how I approached it in the.
 
 Tech I work with
 Frontend: React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, GSAP
